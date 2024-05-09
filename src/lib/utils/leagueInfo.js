@@ -7,11 +7,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Founded in 2014, the Legends League began as keeper league amongst a small group of friends. In 2019, the league converted into a full-fledged dynasty league. Each year, the managers compete to win the Legends Cup and avoid the ever-humiliating Tammy Bowl.</p>
+  <p>SPS Fantasy Football started with the inception of the SPS Keeper League (now "Showers With Micah") in 2019. In 2023, the SPS Dynasty Fantasy Football League was formed as an offshoot of the keeper. Each year subsequently, managers compete to assert dominance over one another and acquire the Dove trophy, avoiding the ever-humiliating Toilet Bowl..</p>
   <p>Some managers built immediate win-now teams, while others began the slow process of building a juggernaut dynasty team. A portion of the league prioritized youth and draft picks, the rest gravitated towards the steadfast value of veterans. While some managers fled from injuries and down years, others bought the dip and built for the future.</p>
-  <p>In astounding commitment to building a dynasty franchise, many of the managers have begun to have kids and groom the next generation of managers to take over their teams. The mini managers are being heavily indoctrinated into the fantasy lifestyle and will be expected to take an active role as soon as they can succesfully type out a coherent trade offer.</p>
-  <p>In contrast to the addition of the mini managers, some managers have also left but, despite that, the league has only gotten stronger. With more passionate managers, the competition has become more intense and more difficult each year.</p>
-  <p>While the ultimate prize is bragging rights and sending obnoxious texts to the rest of the league for the next year, the champion manager also walks away with $800 and the last place manager ships the Legends Cup to the new champion</p>
+  <p>The 2023 season was a rollercoaster ride, eventually culminating in victory for Milon Kalia's Watermilon side over a talented Gus Jacobson-led Njigbas in Paris squad in the Championship. Blockbuster moves through the season included Milon's pickup of Puka Nacua prior to his Week 1 10 Rec 119 Yd breakout. Sameer also made one of the worst decisions in all of fantasy football history, dropping CJ Stroud for Jordan Love in week 2. </p>
+  <p>The outlook for next season is bright, with the 2024 supplemental Rookie Draft rapidly approaching.</p>
 `;
 
 /*   STEP 3   */
